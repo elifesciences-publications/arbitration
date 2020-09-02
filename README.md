@@ -1,6 +1,9 @@
 Wager Social Learning fMRI Study
 ================================
 
+This code is associated with the following article:
+Diaconescu, Stacy et al., 2020, Neural arbitration between social and individual learning systems, eLife, [10.7554/eLife.54051](https://doi.org/10.7554/eLife.54051)
+
 Master Thesis of Madeline Stecy (Sep 2015 - Feb 2016)
 Supervisor: Andreea Diaconescu
 Supervisor and Sponsor: Philippe Tobler
